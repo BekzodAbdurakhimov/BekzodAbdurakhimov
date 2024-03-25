@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bekzodabdurakhimov&label=Profile%20views&color=0e75b6&style=flat" alt="bekzodabdurakhimov" /> </p>
 
-- 🌱 I’m currently learning **Selenium and Appium for automated testing. Also Django for backend development.**
+- 🌱 I’m currently learning **Selenium and for Automated Testing. Also Django for Backend development.**
 
 - 💬 Ask me about **Python, Selenium, Appium, SQL, Django**
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://tashkent.hh.uz/resume/ef3fac7fff09cd83d60039ed1f725846746a47](https://tashkent.hh.uz/resume/ef3fac7fff09cd83d60039ed1f725846746a47)
 
-- ⚡ Fun fact **Enthusiast about learning everything that's interesting for me.**
+- ⚡ Fun fact: **Enthusiast about learning everything that's interesting for me.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
